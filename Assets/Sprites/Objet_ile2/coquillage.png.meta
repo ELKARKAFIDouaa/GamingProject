@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      coquillage_0: -6857052098410394146
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

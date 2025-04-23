@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 026338abbcf7ba045a27941701bca147
+guid: eff84d9299ebbc24fa2f5796476a7f0a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3473335963967446725
-    second: Back_IleConsonne_0
+      213: -1899945910289878525
+    second: tyiu_xy64_210428_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Back_IleConsonne_0
+      name: tyiu_xy64_210428_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 612
-        height: 612
+        width: 6325
+        height: 3514
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b31a122e75b3ccfc0800000000000000
-      internalID: -3473335963967446725
+      spriteID: 30237bcc24902a5e0800000000000000
+      internalID: -1899945910289878525
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Back_IleConsonne_0: -3473335963967446725
+      tyiu_xy64_210428_0: -1899945910289878525
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
